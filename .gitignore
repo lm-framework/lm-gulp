@@ -3,3 +3,11 @@
 
 # Ada Library Information
 *.ali
+.sass-cache
+license
+ignore
+build
+js/min
+config.json
+.gulp
+node_modules/
